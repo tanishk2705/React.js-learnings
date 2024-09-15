@@ -6,3 +6,4 @@
 
 # State: A Component's Memory
 Components often need to change what’s on the screen as a result of an interaction.Components need to “remember” things: the current input value, the current image, the shopping cart. In React, this kind of component-specific memory is called state.
+https://react.dev/reference/react/useState
