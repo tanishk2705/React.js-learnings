@@ -9,3 +9,6 @@ https://react.dev/reference/react/useState
 
 ### Why do we need state variable?
 https://www.linkedin.com/pulse/react-why-do-we-need-state-variable-when-have-local-sohil-lalakiya/
+
+### When does a component renders in React?
+1. When any states or props changes.
