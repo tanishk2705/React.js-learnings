@@ -12,3 +12,7 @@ https://www.linkedin.com/pulse/react-why-do-we-need-state-variable-when-have-loc
 
 ### When does a component renders in React?
 1. When any states or props changes.
+
+### What is useEffect?
+https://react.dev/reference/react/useEffect
+https://jser.dev/2023-07-08-how-does-useeffect-work/#2-useeffect-in-re-render
